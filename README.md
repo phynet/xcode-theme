@@ -26,6 +26,6 @@ The SF Mono font comes with Mac, but needs to be installed
 - Select Add Fonts using + button and navigate to the fonts to add them to font book.
 
 
-#NEW:
+# NEW:
 
 Adding the font https://www.jetbrains.com/lp/mono/  Mono 13pt with ligatures looks even better
