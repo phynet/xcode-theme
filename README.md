@@ -1,9 +1,15 @@
-# xcode-theme
-## Civic with SF mono font 
-
+# Xcode-Theme
+## Civic Background: SF mono font 
 <img width="829" alt="screen shot 2018-07-03 at 11 25 55" src="https://user-images.githubusercontent.com/724536/42213886-4b252a10-7eba-11e8-8f59-4a0147d8523d.png">
 
+## Customized Dusk Background: SF mono font 
+<img width="352" alt="Screenshot 2021-05-09 at 22 05 46" src="https://user-images.githubusercontent.com/724536/117693266-23f39280-b1be-11eb-84ef-378d897ac967.png">
+
+## configuration
 <img width="801" alt="screen shot 2018-07-03 at 11 19 47" src="https://user-images.githubusercontent.com/724536/42211133-18fa8140-7eb3-11e8-93b8-643abad7d720.png">
+
+
+
 
 Follow this steps:
 ```bash
