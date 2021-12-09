@@ -1,12 +1,12 @@
 # Xcode-Theme
-## Civic Background: SF mono font 
+## Dusk Background: SF mono font 
 <img width="829" alt="screen shot 2018-07-03 at 11 25 55" src="https://user-images.githubusercontent.com/724536/42213886-4b252a10-7eba-11e8-8f59-4a0147d8523d.png">
 
 ## Customized Dusk Background: SF mono font 
 <img width="352" alt="Screenshot 2021-05-09 at 22 05 46" src="https://user-images.githubusercontent.com/724536/117693266-23f39280-b1be-11eb-84ef-378d897ac967.png">
 
 
-## Civic with new pallete 
+## Civic 
 ![Screenshot 2021-12-09 at 09 36 57](https://user-images.githubusercontent.com/724536/145362209-be165d83-efcb-4c6d-94aa-2c050c4844a1.png)
 
 
