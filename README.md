@@ -5,11 +5,13 @@
 ## Customized Dusk Background: SF mono font 
 <img width="352" alt="Screenshot 2021-05-09 at 22 05 46" src="https://user-images.githubusercontent.com/724536/117693266-23f39280-b1be-11eb-84ef-378d897ac967.png">
 
-## configuration
+
+## Civic with new pallete 
+![Screenshot 2021-12-09 at 09 36 57](https://user-images.githubusercontent.com/724536/145362209-be165d83-efcb-4c6d-94aa-2c050c4844a1.png)
+
+
+## Configuration
 <img width="801" alt="screen shot 2018-07-03 at 11 19 47" src="https://user-images.githubusercontent.com/724536/42211133-18fa8140-7eb3-11e8-93b8-643abad7d720.png">
-
-
-
 
 Follow this steps:
 ```bash
