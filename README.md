@@ -1,4 +1,12 @@
 # Xcode-Theme
+
+## Sophy Dusk
+I'm using this theme at the moment
+
+![image](https://user-images.githubusercontent.com/724536/191218553-f41edc5a-acb3-409b-a874-8805cc644823.png)
+
+![image](https://user-images.githubusercontent.com/724536/191220767-1699e284-eb03-4920-abe7-61ca24b52a30.png)
+
 ## Dusk Background: SF mono font 
 <img width="829" alt="screen shot 2018-07-03 at 11 25 55" src="https://user-images.githubusercontent.com/724536/42213886-4b252a10-7eba-11e8-8f59-4a0147d8523d.png">
 
@@ -10,7 +18,8 @@
 ![Screenshot 2021-12-09 at 09 36 57](https://user-images.githubusercontent.com/724536/145362209-be165d83-efcb-4c6d-94aa-2c050c4844a1.png)
 
 
-## Configuration
+
+# Installation & Configuration
 <img width="801" alt="screen shot 2018-07-03 at 11 19 47" src="https://user-images.githubusercontent.com/724536/42211133-18fa8140-7eb3-11e8-93b8-643abad7d720.png">
 
 Follow this steps:
